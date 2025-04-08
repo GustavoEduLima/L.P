@@ -1,0 +1,34 @@
+[
+    {
+        "name": "NatSave",
+        "category": "sustentabilidade",
+        "image": "../assets/images/natsave.png",
+        "description": "Plataforma gamificada para um futuro sustentável.",
+        "live": "https://nat-save.vercel.app/",
+        "code": "https://github.com/gabycancello/NatSave"
+    },
+    {
+        "name": "Gefran Industria",
+        "category": "tecnologia-industrial",
+        "image": "../assets/images/Gefran.png",
+        "description": "Projeto de gestão industrial",
+        "live": "https://gefran-industria-mecanica.vercel.app/",
+        "code": "https://github.com/gabycancello/gefran-industria-mecanica"
+    },
+    {
+        "name": "Portfolio",
+        "category": "portfolio",
+        "image": "projects-screen.png",
+        "description": "Meu portfólio pessoal.",
+        "live": "https://portfolio-gabrielacancello.vercel.app/",
+        "code": "https://github.com/gabycancello/My-Portfolio-Updated"
+    },
+    {
+        "name": "Mood Coffee",
+        "category": "UX",
+        "image": "../assets/images/mood-coffee.png",
+        "description": "Um site interativo onde seu estado de espírito define a bebida perfeita! ",
+        "live": "https://mood-coffee-three.vercel.app/",
+        "code": "https://github.com/gabycancello/mood-coffee"
+    }
+]
