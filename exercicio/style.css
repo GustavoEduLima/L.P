@@ -1,0 +1,36 @@
+/* Estilo para o rodapé */
+.footer {
+    background-color: black;
+    color: blue;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1030; /* Para ficar sobre outros elementos */
+  }
+/* Estilo para o botão de voltar ao topo */
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: blue;
+    border: none;
+    border-radius: 50%;
+    padding: 10px 15px;
+    font-size: 18px;
+    cursor: pointer;
+    display: none; /* Inicialmente escondido */
+    z-index: 1030; /* Para ficar sobre outros elementos */
+  }
+
+  .card-img-top {
+    width: 100%;
+    height: 200px; /* ou qualquer altura que desejar */
+    object-fit: cover;
+  }
+  .carousel-item img {
+    height: 100px;
+  }
+    
